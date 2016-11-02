@@ -1,1 +1,1 @@
-<?php include_once('himu/index.html'); ?>
+<?php include_once('index.html'); ?>
